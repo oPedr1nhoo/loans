@@ -1,4 +1,4 @@
-package com.microservice.loans;
+package com.microservice.loans.repository;
 
 
 import com.microservice.loans.entity.Loans;
